@@ -19,9 +19,9 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/davie_91m" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="davie_91m" height="30" width="40" /></a>
-<a href="https://fb.com/davidm" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="davidm" height="30" width="40" /></a>
-<a href="https://instagram.com/davie_j" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="davie_j" height="30" width="40" /></a>
-<a href="https://www.youtube.com/c/davie" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="davie" height="30" width="40" /></a>
+<a href="https://fb.com/David Muigai" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="davidm" height="30" width="40" /></a>
+<a href="https://instagram.com/davi._jones" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="davie_j" height="30" width="40" /></a>
+<a href="https://www.youtube.com/c/M.Jones.Davids" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="davie" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
